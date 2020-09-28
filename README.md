@@ -35,4 +35,4 @@ Here, we have tried to recreate some of the Lucid notebooks!
 
 ## License and Disclaimer
 
-You may use this software under the Apache 2.0 License. See [LICENSE](https://github.com/greentfrapp/lucent/blob/master/LICENSE).
+You may use this software under the Apache 2.0 License. See [LICENSE](https://github.com/greentfrapp/lucent-notebooks/blob/master/LICENSE).
