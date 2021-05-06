@@ -32,7 +32,7 @@ Here, we have tried to recreate some of the Lucid notebooks!
 </a>
 
 <a href="https://colab.research.google.com/github/Animadversio/lucent-notebooks/blob/master/notebooks/GAN_parametrization.ipynb">
-<img src="https://github.com/Animadversio/lucent-notebooks/master/images/GAN_parametrization_card.png" width="500" alt=""></img>
+<img src="https://raw.githubusercontent.com/Animadversio/lucent-notebooks/master/images/GAN_parametrization_card.png" width="500" alt=""></img></a> 
 
 # Additional Information
 
