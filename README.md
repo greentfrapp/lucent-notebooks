@@ -31,8 +31,8 @@ Here, we have tried to recreate some of the Lucid notebooks!
 <img src="https://github.com/greentfrapp/lucent-notebooks/raw/master/images/activation_grids_card.jpg" width="500" alt=""></img>
 </a>
 
-<a href="https://colab.research.google.com/github/greentfrapp/lucent-notebooks/blob/master/notebooks/GAN_parametrization.ipynb">
-<img src="https://github.com/greentfrapp/lucent-notebooks/raw/master/images/GAN_parametrization_card" width="500" alt=""></img>
+<a href="https://colab.research.google.com/github/Animadversio/lucent-notebooks/blob/master/notebooks/GAN_parametrization.ipynb">
+<img src="https://github.com/Animadversio/lucent-notebooks/raw/master/images/GAN_parametrization_card" width="500" alt=""></img>
 
 # Additional Information
 
